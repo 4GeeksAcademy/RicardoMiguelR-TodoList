@@ -9,7 +9,7 @@ body {
     background-image: url(https://e1.pxfuel.com/desktop-wallpaper/489/954/desktop-wallpaper-line-yellow-sheet-strip-background-field-notebook.jpg);
     background-size: cover;
     display: inline-grid;
-    padding: 30px;
+    padding: 50px;
     border-radius: 15px;
 }
 
@@ -35,7 +35,7 @@ body {
     border-radius: 15px;
 }
 
-.add-task {
+.add-count {
     justify-self: left;
     font-family: Impact;
     font-size: 15px;
@@ -47,6 +47,10 @@ body {
 
 .task-absolute {
     font-family: Lucida Handwriting;
-    font-size: 20px;
+    font-size: 15px;
     text-align-last: start
+}
+
+.list {
+    list-style-type: none;
 }
